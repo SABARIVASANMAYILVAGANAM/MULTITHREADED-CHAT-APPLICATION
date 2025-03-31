@@ -18,3 +18,5 @@ The Chat Application is a simple client-server-based messaging system that enabl
 *OUTPUT*
 
 ![Image](https://github.com/user-attachments/assets/c33ae379-4655-4199-8f0e-07c61508198d)
+
+![Image](https://github.com/user-attachments/assets/4766be98-e35c-4a9b-a293-9c73e7bf31f2)
